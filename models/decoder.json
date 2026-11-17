@@ -1,0 +1,11 @@
+{
+ "params": {
+  "temp": 2.0,
+  "c_switch": 20,
+  "c_to_dead": 60,
+  "c_from_dead": 40,
+  "d_bias": 0.5
+ },
+ "dfl_cv_spell_f1": 0.6638840488288219,
+ "dfl_cv_macro_f1": 0.9074468950040748
+}

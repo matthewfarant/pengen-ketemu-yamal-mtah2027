@@ -1,0 +1,29 @@
+# Match data & anything derived from it never goes in git (competition T&Cs)
+more-than-a-hack-assets/
+local/
+data/
+*.mp4
+*.wav
+# submissions
+submissions/
+*_possession*.csv
+.DS_Store
+__pycache__/
+.venv/
+venv/
+# external training data (downloaded by the pipeline) and caches
+ext/
+cache/
+models/classifier.pkl
+models/noise_profile.json
+models/stage2.pkl
+# secrets, internal notes, binaries
+.env
+.env.*
+*.pem
+*.key
+.claude/
+CLAUDE.md
+*.pkl
+*.npz
+*.log
