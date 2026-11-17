@@ -1,5 +1,7 @@
 # Pengen Ketemu Yamal — possession from noisy tracking, learned on other games
 
+**Team:** Pengen Ketemu Yamal · **Code:** https://github.com/matthewfarant/pengen-ketemu-yamal-mtah2027
+
 Every graded frame of the tactical video gets a label: H (Barça in possession), A (Athletic in
 possession) or D (dead ball). Outside the two graded halves the label is X.
 
